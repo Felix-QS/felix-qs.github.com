@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Xu Qingsong Pages
 
-You can use the [editor on GitHub](https://github.com/Felix-QS/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Xu Qingsong Pages](https://github.com/Felix-QS/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
